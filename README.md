@@ -13,7 +13,7 @@ Average Reading Score
 
 
 
-I created a school cummary table that includes
+I created a school summary table that includes
 
 School Name
 School Type
