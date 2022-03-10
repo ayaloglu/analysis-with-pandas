@@ -2,29 +2,29 @@
 Analysis using pandas
 
 I created a district summary table that includes
-Total Schools
-Total Students
-Total Budget
-Average Math Score
-Average Reading Score
-% Passing Math 
-% Passing Reading 
-% Overall Passing 
+1.Total Schools
+1.Total Students
+1.Total Budget
+1.Average Math Score
+1.Average Reading Score
+1.% Passing Math 
+1.% Passing Reading 
+1.% Overall Passing 
 
 
 
 I created a school summary table that includes
 
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math 
-% Passing Reading 
-% Overall Passing 
+1.School Name
+1.School Type
+1.Total Students
+1.Total School Budget
+1.Per Student Budget
+1.Average Math Score
+1.Average Reading Score
+1.% Passing Math 
+1.% Passing Reading 
+1.% Overall Passing 
 
 I created tables that shows top Performing and bottom performing Schools by their % Overall Passing 
 
