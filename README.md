@@ -1,5 +1,5 @@
 # analysis-with-pandas
-Analysis using pandas
+This includes analysis about student and school performances.  
 
 I created a district summary table that includes
 1. Total Schools
